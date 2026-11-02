@@ -1,0 +1,49 @@
+# 🌿 Plant Species Detection Using CNN and Vision Transformer
+
+## 📌 Project Description
+
+Plant Species Detection is an AI-based project
+that identifies different plant species using
+Deep Learning and Computer Vision.
+
+The system uses Convolutional Neural Networks
+(CNN) and Vision Transformer (ViT) techniques
+to recognize plant species from images.
+
+## 🎯 Objectives
+
+- Identify different plant species.
+- Apply Deep Learning techniques.
+- Improve plant classification.
+- Develop an intelligent plant identification system.
+
+## 🛠️ Technologies Used
+
+- Python
+- Deep Learning
+- CNN
+- Vision Transformer (ViT)
+- TensorFlow / PyTorch
+- OpenCV
+
+## 📂 Project Structure
+
+Plant-species-detection/
+│
+├── README.md
+├── dataset/
+├── models/
+├── src/
+├── outputs/
+├── requirements.txt
+└── main.py
+
+## 📊 Output
+
+Plant species identification results
+will be displayed here.
+
+## 👨‍💻 Developer
+
+Dhayanithi R# DEEP-LEARNING-ASSIGNMENT--1-
+This project, Plant Species Detection Using Deep Learning, builds a CNN-based image classifier that identifies plant species from leaf images. It covers dataset preparation, preprocessing, augmentation, training, and evaluation using accuracy, precision, recall and a confusion matrix, with a web interface for predicting species and confidence.
